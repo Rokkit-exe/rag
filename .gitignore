@@ -2,3 +2,6 @@
 .venv
 canada/
 __pycache__/
+*.py[cod]
+*$py.class
+__pypackages__/
