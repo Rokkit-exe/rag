@@ -1,3 +1,4 @@
 .env
 .venv
 canada/
+__pycache__/
